@@ -9,6 +9,10 @@
 
 --------------
 
+pycurl https://www.lfd.uci.edu/~gohlke/pythonlibs/#pycurl
+
+collections.abc
+
 ### 使用方法
 
 1.设置环境变量
