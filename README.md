@@ -15,13 +15,10 @@ collections.abc
 
 ### 使用方法
 
-1.设置环境变量
+1.安装
 
-    export PYCURL_SSL_LIBRARY=nss;
-2.安装
+    pip install git+https://github.com/RangerShaw/pyspider-py311
 
-    pip install git+https://github.com/deep-project/pyspider.git
-
-3.启动
+2.启动
 
     pyspider
